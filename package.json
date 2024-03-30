@@ -1,0 +1,35 @@
+{
+  "name": "ephemeral-mist-creator",
+  "version": "1.0.0",
+  "description": "Offers tools for environmental conservation efforts, supporting wildlife tracking, habitat analysis, and sustainability projects.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knaraetkaerb/ephemeral-mist-creator"
+  },
+  "author": "knaraetkaerb",
+  "license": "MIT",
+  "dependencies": {
+    "blocksage": "1.0.0",
+    "zolotaya-chasha-zolotaya": "1.0.0",
+    "flux-portal-generator": "1.0.0",
+    "graviton-sphere-locator": "1.0.0",
+    "passport": "1.0.0",
+    "jsonwebtoken": "1.0.0",
+    "solc": "1.0.0",
+    "sequelize": "1.0.0",
+    "helmet": "1.0.0",
+    "ethereumjs-tx": "1.0.0",
+    "mongoose": "1.0.0",
+    "debug": "1.0.0",
+    "node-sass": "1.0.0",
+    "request": "1.0.0",
+    "ethereumjs-util": "1.0.0",
+    "eslint": "1.0.0",
+    "cheerio": "1.0.0",
+    "cors": "1.0.0"
+  }
+}
